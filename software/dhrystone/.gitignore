@@ -1,6 +1,0 @@
-dhrystone
-*.o
-*.i
-*.s
-*.dump
-*.verilog
